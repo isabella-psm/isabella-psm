@@ -5,15 +5,15 @@
 
 🌱 I’m currently learning R.
 
-<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
+<h2> Skills </h2>
+<p align="left"> <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"> </a>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=sqlite&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"> </a>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=css&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> </a>
-<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a>
+<a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=html&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> </a></p>
 
 <h2> Connect with me</h2>
 <a href="https://www.linkedin.com/in/isabellapsm/"> <img width="32px" align="middle" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
