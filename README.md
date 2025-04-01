@@ -1,5 +1,5 @@
 # Hi, I'm Isabella, a Data Analysis Student 👋🏻​:
-🔭 Working on data analysis and visualization projects<br>🌱 Currently mastering R<br> 
+🔭 Working on data analysis and visualization projects<br>🌱 Currently mastering Python<br> 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lsaa_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isabellapereira0709@gmail.com) 
