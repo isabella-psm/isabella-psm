@@ -10,5 +10,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=isabella-psm&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-psm&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+ <div>
+   <a href="https://github.com/Edmon-Nascimento">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-psm&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-psm&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+     
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
