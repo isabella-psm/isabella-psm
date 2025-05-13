@@ -1,4 +1,4 @@
-# Hi, I'm Isabella, a Data Analysis Student 👋🏻​:
+# Hi, I'm Isabella, a Data Science Student 👋🏻​:
 🔭 Working on data analysis and visualization projects<br>🌱 Currently mastering Python<br> 
 
 ## 🌐 Socials:
